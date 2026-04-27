@@ -26,4 +26,3 @@ module ChatApp
     end
   end
 end
-GitHubでアプリケーショ
